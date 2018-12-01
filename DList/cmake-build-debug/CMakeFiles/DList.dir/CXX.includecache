@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yangxiaochuan/CLionProjects/DList/DList.h
+iostream
+-
+List.h
+/Users/yangxiaochuan/CLionProjects/DList/List.h
+Link.h
+/Users/yangxiaochuan/CLionProjects/DList/Link.h
+
+/Users/yangxiaochuan/CLionProjects/DList/Link.h
+iostream
+-
+
+/Users/yangxiaochuan/CLionProjects/DList/List.h
+
+/Users/yangxiaochuan/CLionProjects/DList/Pair.h
+
+/Users/yangxiaochuan/CLionProjects/DList/main.cpp
+iostream
+-
+string
+-
+DList.h
+/Users/yangxiaochuan/CLionProjects/DList/DList.h
+Pair.h
+/Users/yangxiaochuan/CLionProjects/DList/Pair.h
+

@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yangxiaochuan/CLionProjects/Stack/LStack.h
+assert.h
+-
+Link.h
+/Users/yangxiaochuan/CLionProjects/Stack/Link.h
+Stack.h
+/Users/yangxiaochuan/CLionProjects/Stack/Stack.h
+
+/Users/yangxiaochuan/CLionProjects/Stack/Link.h
+stdlib.h
+-
+
+/Users/yangxiaochuan/CLionProjects/Stack/Stack.h
+iostream
+-
+stdlib.h
+-
+
+/Users/yangxiaochuan/CLionProjects/Stack/main.cpp
+iostream
+-
+stdio.h
+-
+string
+-
+sstream
+-
+LStack.h
+/Users/yangxiaochuan/CLionProjects/Stack/LStack.h
+
