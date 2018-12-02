@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yangxiaochuan/CLionProjects/Tree_Binary/BST.h
+iostream
+-
+cmath
+-
+Coordinate.h
+/Users/yangxiaochuan/CLionProjects/Tree_Binary/Coordinate.h
+Dict.h
+/Users/yangxiaochuan/CLionProjects/Tree_Binary/Dict.h
+BSTNode.h
+/Users/yangxiaochuan/CLionProjects/Tree_Binary/BSTNode.h
+
+/Users/yangxiaochuan/CLionProjects/Tree_Binary/BSTNode.h
+cstdlib
+-
+BinNode.h
+/Users/yangxiaochuan/CLionProjects/Tree_Binary/BinNode.h
+
+/Users/yangxiaochuan/CLionProjects/Tree_Binary/BinNode.h
+
+/Users/yangxiaochuan/CLionProjects/Tree_Binary/Coordinate.h
+iostream
+-
+
+/Users/yangxiaochuan/CLionProjects/Tree_Binary/Dict.h
+
+/Users/yangxiaochuan/CLionProjects/Tree_Binary/main.cpp
+iostream
+-
+sstream
+-
+BST.h
+/Users/yangxiaochuan/CLionProjects/Tree_Binary/BST.h
+Coordinate.h
+/Users/yangxiaochuan/CLionProjects/Tree_Binary/Coordinate.h
+

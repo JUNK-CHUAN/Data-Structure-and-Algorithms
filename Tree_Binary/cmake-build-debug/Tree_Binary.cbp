@@ -80,7 +80,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/yangxiaochuan/CLionProjects/Tree_Binary/BST.h">
+			<Option target="Tree_Binary"/>
+		</Unit>
+		<Unit filename="/Users/yangxiaochuan/CLionProjects/Tree_Binary/BSTNode.h">
+			<Option target="Tree_Binary"/>
+		</Unit>
 		<Unit filename="/Users/yangxiaochuan/CLionProjects/Tree_Binary/BinNode.h">
+			<Option target="Tree_Binary"/>
+		</Unit>
+		<Unit filename="/Users/yangxiaochuan/CLionProjects/Tree_Binary/Coordinate.h">
+			<Option target="Tree_Binary"/>
+		</Unit>
+		<Unit filename="/Users/yangxiaochuan/CLionProjects/Tree_Binary/Dict.h">
 			<Option target="Tree_Binary"/>
 		</Unit>
 		<Unit filename="/Users/yangxiaochuan/CLionProjects/Tree_Binary/main.cpp">

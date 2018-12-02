@@ -12,19 +12,19 @@ public:
     virtual ~BinNode() {} // Base destructor
 
     // Return the node's value
-    virtual E& getElement() = 0;
+    virtual E& element() = 0;
 
     // Set the node's value
     virtual void setElement(const E&) = 0;
 
     // Return the node's left child
-    virtual BinNode* getLeft() const = 0;
+    virtual BinNode* left() const = 0;
 
     // Set the node's left child
     virtual void setLeft(BinNode*) = 0;
 
     // Return the node's right child
-    virtual BinNode* getRight() const = 0;
+    virtual BinNode* right() const = 0;
 
     // Set thr node's right child
     virtual void setRight(BinNode*) = 0;

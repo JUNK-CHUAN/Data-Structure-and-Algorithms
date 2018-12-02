@@ -3,4 +3,4 @@ project(Tree_Binary)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(Tree_Binary main.cpp BinNode.h)
+add_executable(Tree_Binary main.cpp BinNode.h Dict.h BSTNode.h BST.h Coordinate.h)
