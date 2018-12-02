@@ -6,14 +6,12 @@
 #define DICT_DICT_H
 
 
-#include "Alist.h"
-
 // The Dictionary abstract class
 template <typename Key, typename E>
 class Dictionary
 {
  private:
-  void operater = (const Dictionary&) {}
+  void operator = (const Dictionary&) {}
   Dictionary(const Dictionary&) {}
 
  public:
