@@ -36,7 +36,14 @@ class Graph {
 
   // Delete an edge
   // i, j: The vertices
-  virtual void delEdge()
+  virtual void delEdge(int v1, int v2) = 0;
+
+  virtual bool isEdge(int i, int j) = 0;
+
+  virtual int weight(int v1, int v2) = 0;
+
+  virtual int getMark(int v) = 0;
+  virtual void setMark(int v, int val) = 0;
 };
 
 

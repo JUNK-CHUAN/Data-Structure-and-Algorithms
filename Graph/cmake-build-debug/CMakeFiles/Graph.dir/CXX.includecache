@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yangxiaochuan/CLionProjects/Graph/AQueue.h
+
+/Users/yangxiaochuan/CLionProjects/Graph/Graph.h
+
+/Users/yangxiaochuan/CLionProjects/Graph/Graphm.h
+iostream
+-
+assert.h
+-
+Graph.h
+/Users/yangxiaochuan/CLionProjects/Graph/Graph.h
+AQueue.h
+/Users/yangxiaochuan/CLionProjects/Graph/AQueue.h
+
+/Users/yangxiaochuan/CLionProjects/Graph/Method.h
+iostream
+-
+Graphm.h
+/Users/yangxiaochuan/CLionProjects/Graph/Graphm.h
+
+/Users/yangxiaochuan/CLionProjects/Graph/main.cpp
+Graphm.h
+/Users/yangxiaochuan/CLionProjects/Graph/Graphm.h
+Method.h
+/Users/yangxiaochuan/CLionProjects/Graph/Method.h
+

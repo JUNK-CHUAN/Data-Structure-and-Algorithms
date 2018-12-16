@@ -80,13 +80,16 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/yangxiaochuan/CLionProjects/Graph/AQueue.h">
+			<Option target="Graph"/>
+		</Unit>
 		<Unit filename="/Users/yangxiaochuan/CLionProjects/Graph/Graph.h">
 			<Option target="Graph"/>
 		</Unit>
-		<Unit filename="/Users/yangxiaochuan/CLionProjects/Graph/Graphl.h">
+		<Unit filename="/Users/yangxiaochuan/CLionProjects/Graph/Graphm.h">
 			<Option target="Graph"/>
 		</Unit>
-		<Unit filename="/Users/yangxiaochuan/CLionProjects/Graph/Graphm.h">
+		<Unit filename="/Users/yangxiaochuan/CLionProjects/Graph/Method.h">
 			<Option target="Graph"/>
 		</Unit>
 		<Unit filename="/Users/yangxiaochuan/CLionProjects/Graph/main.cpp">
